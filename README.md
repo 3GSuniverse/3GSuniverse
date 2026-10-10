@@ -1,46 +1,59 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=GunaSekhar&fontSize=60&fontColor=c792ea&animation=fadeIn&fontAlignY=38&desc=Founder%20%E2%80%A2%20Gurubramha%20(GB%20Tech)&descAlignY=58&descSize=18" />
+
 <div align="center">
 
-# Hi, I'm GunaSekhar 👋
-### Founder of **Gurubramha (GB Tech)** · Final-year CSE @ ALIET, Vijayawada
+<a href="https://github.com/3GSuniverse">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+ERP+for+colleges+%F0%9F%8E%93;Live+at+a+4%2C000%2B+student+campus+%F0%9F%9A%80;Node+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+PostgreSQL;Product+over+projects.+Always." />
+</a>
 
-I build ERP software for educational institutions. Our system runs live at a college with **4,000+ students**, handling attendance, marks and hostel management end to end.
+<br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=3GSuniverse&color=6f42c1&style=flat-square)](https://github.com/3GSuniverse)
+<img src="https://komarev.com/ghpvc/?username=3GSuniverse&label=Profile%20views&color=7aa2f7&style=for-the-badge" />
 
 </div>
 
 ---
 
-### 🚀 What I'm working on
-- **Gurubramha ERP**: attendance, marks, hostel and fee management for colleges
+### 🚀 What I'm building
+- **Gurubramha ERP**: attendance, marks, hostel and fee management, running live at a 4,000+ student college
 - **Smartshala**: the Android companion app for the ERP
 - **AI call-centre agent**: a self-hosted voice agent with a live dashboard
-- Scaling Gurubramha from one live campus to many
 
 ### 🛠️ Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,postgres,flutter,androidstudio,gcp,aws,linux,docker,git,python&perline=7" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,postgres,flutter,androidstudio,gcp,aws,linux,docker,git,python&perline=7&theme=dark" />
 </p>
 
-### 📊 GitHub analytics
+---
 
-<div align="center">
+## 🌌 My contributions in 3D
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=3GSuniverse&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3GSuniverse&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+## 📊 Live analytics
+<p align="center">
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+</p>
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=3GSuniverse&theme=tokyonight&hide_border=true" />
+## 🧬 Coding habits, calendar & achievements
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=3GSuniverse&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-### 🐍 Contribution snake
-
+## 🐍 Contribution snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3GSuniverse/3GSuniverse/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/3GSuniverse/3GSuniverse/output/github-snake.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/3GSuniverse/3GSuniverse/output/github-snake.svg" />
 </picture>
 
 ---
@@ -49,6 +62,6 @@ I build ERP software for educational institutions. Our system runs live at a col
 
 **60+ certifications** · AWS · Google Cloud · Linux Foundation · HarvardX CS50P · MLOps/LLMOps
 
-*Product over projects. Recurring value over one-off work.*
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
